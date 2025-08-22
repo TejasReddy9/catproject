@@ -32,7 +32,7 @@
     "vue-template-compiler": "^2.4.4",
     "webpack": "^3.6.0",
     "webpack-bundle-tracker": "^0.4.2-beta",
-    "webpack-dev-server": "^3.1.11",
+    "webpack-dev-server": "^5.2.1",
     "write-file-webpack-plugin": "^4.5.1"
   }
 }
